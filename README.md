@@ -47,7 +47,7 @@ The project uses two tables:
 ## 🛠️ Tools Used
 
 - SQL (MySQL syntax)
-- MySQL Workbench (or DBMS of choice)
+- MySQL Workbench 
 - Dataset provided by [Maven Analytics](https://mavenanalytics.io/data-playground)
 
 ---
