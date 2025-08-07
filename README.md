@@ -48,7 +48,7 @@ The project uses two tables:
 
 - SQL (MySQL syntax)
 - MySQL Workbench (or DBMS of choice)
-- Dataset provided by [Maven Analytics]([https://www.mavenanalytics.io/](https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&pageSize=10&search=restaurant%20orders))
+- Dataset provided by [Maven Analytics]((https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&pageSize=10&search=restaurant%20orders))
 
 ---
 
