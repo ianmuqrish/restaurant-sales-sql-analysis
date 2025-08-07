@@ -31,10 +31,10 @@ The project uses two tables:
 - **Most Expensive Item:** Shrimp Scampi
 
 ### 🔹 Order Behavior:
-- **Date Range:** From earliest to latest order date in dataset
+- **Date Range:** January 1, 2023 - 31 March, 2023
 - Over **1,000+ unique orders** recorded
 - Some orders include **more than 12 items**, likely group dining
-- **Orders with most items**: Order ID `4305`, `3473`, `1957`, `330`, `440`, `443`, `2675`
+- **Orders with the most items (14 each):** Order IDs `4305`, `3473`, `1957`, `330`, `440`, `443`, `2675`
 
 ### 🔹 Sales & Revenue Patterns:
 - **Highest spending order**: Order ID `440`, heavily favored Italian dishes
@@ -48,7 +48,7 @@ The project uses two tables:
 
 - SQL (MySQL syntax)
 - MySQL Workbench (or DBMS of choice)
-- Dataset provided by [Maven Analytics]((https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&pageSize=10&search=restaurant%20orders))
+- Dataset provided by [Maven Analytics](https://mavenanalytics.io/data-playground)
 
 ---
 
