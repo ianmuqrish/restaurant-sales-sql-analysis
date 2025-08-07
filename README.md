@@ -27,14 +27,14 @@ The project uses two tables:
 ### 🔹 Menu Analysis:
 - **Italian** dishes dominate the menu in both count and price range.
 - Average dish price varies significantly by **category**, suggesting different pricing strategies.
-- **Least Expensive Item:** [Lowest priced item name from your data]
-- **Most Expensive Item:** [Highest priced item name from your data]
+- **Least Expensive Item:** Edamame
+- **Most Expensive Item:** Shrimp Scampi
 
 ### 🔹 Order Behavior:
 - **Date Range:** From earliest to latest order date in dataset
 - Over **1,000+ unique orders** recorded
 - Some orders include **more than 12 items**, likely group dining
-- **Order with most items**: [Order ID] had the highest item count
+- **Orders with most items**: Order ID `4305`, `3473`, `1957`, `330`, `440`, `443`, `2675`
 
 ### 🔹 Sales & Revenue Patterns:
 - **Highest spending order**: Order ID `440`, heavily favored Italian dishes
@@ -48,7 +48,7 @@ The project uses two tables:
 
 - SQL (MySQL syntax)
 - MySQL Workbench (or DBMS of choice)
-- Dataset provided by [Maven Analytics](https://www.mavenanalytics.io/)
+- Dataset provided by [Maven Analytics]([https://www.mavenanalytics.io/](https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&pageSize=10&search=restaurant%20orders))
 
 ---
 
